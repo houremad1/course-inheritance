@@ -1,4 +1,8 @@
 com\mycompany\courseinheritance\Main.class
 com\mycompany\courseinheritance\NormalCourse.class
+com\mycompany\courseinheritance\CourseList.class
+com\mycompany\courseinheritance\GeneralProgramStudent.class
 com\mycompany\courseinheritance\SummerCourse.class
+com\mycompany\courseinheritance\SpecialProgramStudent.class
+com\mycompany\courseinheritance\Student.class
 com\mycompany\courseinheritance\Course.class
